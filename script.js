@@ -4,3 +4,4 @@ let umur = 20;
 
 let name = "Dedy saputra new"
 
+let address = "Bandung"
